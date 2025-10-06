@@ -165,5 +165,5 @@ The Jupyter notebook complements the SQL work by performing:
 ## 👤 Author  
 **Sri Sai Chowadry Thati**  
 *Certified Data Analyst | Power BI & SQL Developer*  
-📧 [Email Placeholder]  
+📧 srisaichowdary1210@gmail.com 
 📍 India  
